@@ -13,7 +13,10 @@ fun main() {
     println("Jugar Futbol")
     println("Molly, Luka y Zeus")
 
-
+    println("Cristian Esteban Cano Vega")
+    println("Hola")
+    println("Gato: Benito")
+    
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
@@ -31,8 +34,7 @@ fun main() {
 
     println("Juan Sebastian Dueñas Robayo")
     println("Jugar Xbox")
-    println("Perrita""Samantha")
-
+    println("Perrita Samantha")
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
