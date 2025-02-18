@@ -31,7 +31,9 @@ fun main() {
 
     println("Juan Sebastian Dueñas Robayo")
     println("Jugar Xbox")
-    println("Perrita""Samantha")
+    println("Perrita Samantha")
+    println("19")
+    println("Zipaquira")
 
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
