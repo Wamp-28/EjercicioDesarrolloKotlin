@@ -14,6 +14,8 @@ fun main() {
     println("MiguelJimenez")
     println("Leer Libros")
     println("Mascota : Tomas")
+    println("Edad : 20")
+    println("Tocancipa")
 
     println("Valeria Medina Ocampo")
     println("bailar ")
