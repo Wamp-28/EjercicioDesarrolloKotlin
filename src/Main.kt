@@ -48,6 +48,8 @@ fun main() {
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
     println("PERROS:TOBY, KIRA Y CHIQUI")
+    println("20")
+    println("Tocancipa")
 
     println("Jorge Esteban Herrera Jimenez")
     println("Jugar videojuegos")
