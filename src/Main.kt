@@ -1,5 +1,11 @@
 fun main() {
 
+    println("Manuel Santiago Malpica")
+    println("jugar xbox")
+    println("perro Roma ")
+    println("21")
+    println("Zipaquira")
+
    println("TENGO 20 AÑOS")
     println("ZIPAQUIRA")
  
@@ -81,4 +87,5 @@ fun main() {
     println("Wilson Gomez")
     println("jugar voley")
     println("ninguno")
+
 }
