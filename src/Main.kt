@@ -17,6 +17,8 @@ fun main() {
     println("Valeria Medina Ocampo")
     println("bailar ")
     println("no tengo mascota")
+    println("19 años")
+    println("Zipaquira ")
 
 
     println("Juan David Bustos")
