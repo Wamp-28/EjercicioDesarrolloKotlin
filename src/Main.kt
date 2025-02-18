@@ -8,8 +8,8 @@ fun main() {
 
    println("TENGO 20 AÑOS")
     println("ZIPAQUIRA")
- 
-    
+
+
     println("Omar Rodriguez")
     println("Jugar Futbol")
     println("juancho")
@@ -74,7 +74,7 @@ fun main() {
     println("Perrita Samantha")
     println("19")
     println("Zipaquira")
-    
+
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
@@ -93,5 +93,11 @@ fun main() {
     println("gata: mia")
 }
 
+}
+
+
+    println("Santiago Noguera")
+    println("Practicar deporte")
+    println("Perrita: Nala")
 }
 
