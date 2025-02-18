@@ -33,7 +33,7 @@ fun main() {
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
-    println("Gato Mincho")
+    println("Perro Cristian")
 
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
@@ -47,6 +47,8 @@ fun main() {
     println("Jefferson Parra")
     println("Escuchar Musica")
     println("Perro: Juan")
+    println("20")
+    println("Cota")
 
 
 
@@ -65,4 +67,7 @@ fun main() {
     println("Wilson Gomez")
     println("jugar voley")
     println("ninguno")
+
+
+
 }
