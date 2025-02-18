@@ -88,7 +88,16 @@ fun main() {
     println("jugar voley")
     println("ninguno")
 
+    println("juan moncada")
+    println("jugar genshin")
+    println("gata: mia")
+}
+
+}
+
+
     println("Santiago Noguera")
     println("Practicar deporte")
     println("Perrita: Nala")
 }
+
