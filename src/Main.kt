@@ -29,11 +29,13 @@ fun main() {
 
     println("Cristian Esteban Cano Vega")
     println("Hola")
-    println("Gato: Benito")
+    println("Gato: Willson")
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
+    println("21 años")
+    println("Pacho Cundinamarca")
 
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
