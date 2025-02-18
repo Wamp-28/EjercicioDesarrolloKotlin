@@ -1,9 +1,15 @@
 fun main() {
 
+    println("Manuel Santiago Malpica")
+    println("jugar xbox")
+    println("perro Roma ")
+    println("21")
+    println("Zipaquira")
+
    println("TENGO 20 AÑOS")
     println("ZIPAQUIRA")
-
-
+ 
+    
     println("Omar Rodriguez")
     println("Jugar Futbol")
     println("juancho")
@@ -14,10 +20,20 @@ fun main() {
     println("MiguelJimenez")
     println("Leer Libros")
     println("Mascota : Tomas")
+    println("Edad : 20")
+    println("Tocancipa")
+
+
+    println("Angie Jimenez")
+    println("Hacer Origami")
+    println("Mascota : Tomas")
+    println("edad: 20")
+    println("Tocancipá")
 
     println("Valeria Medina Ocampo")
     println("bailar ")
     println("no tengo mascota")
+
 
     println("Juan David Bustos")
     println("Jugar Futbol")
@@ -35,7 +51,7 @@ fun main() {
     println("22")
     println("Pacho")
 
-
+    
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
@@ -45,6 +61,8 @@ fun main() {
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
     println("PERROS:TOBY, KIRA Y CHIQUI")
+    println("20")
+    println("Tocancipa")
 
     println("Jorge Esteban Herrera Jimenez")
     println("Jugar videojuegos")
@@ -64,7 +82,7 @@ fun main() {
     println("Perrita Samantha")
     println("19")
     println("Zipaquira")
-
+    
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
@@ -77,4 +95,20 @@ fun main() {
     println("Wilson Gomez")
     println("jugar voley")
     println("ninguno")
+
+    println("20")
+    println("zipaquira")
+
+
+
+    println("juan moncada")
+    println("jugar genshin")
+    println("gata: mia")
+
+
+
+    println("Santiago Noguera")
+    println("Practicar deporte")
+    println("Perrita: Nala")
+    println("20")
 }
