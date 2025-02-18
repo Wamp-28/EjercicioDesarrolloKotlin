@@ -23,6 +23,12 @@ fun main() {
     println("Edad : 20")
     println("Tocancipa")
 
+    println("Angie Jimenez")
+    println("Hacer Origami")
+    println("Mascota : Tomas")
+    println("edad: 20")
+    println("Tocancipá")
+
     println("Valeria Medina Ocampo")
     println("bailar ")
     println("no tengo mascota")
