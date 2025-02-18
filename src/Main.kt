@@ -9,6 +9,10 @@ fun main() {
     println("Tocar Guitarra")
     println("Gato Mincho")
 
+    println("Caren Juliana Arevalo Vargas")
+    println("Leer")
+    println("PERROS:TOBY, KIRA Y CHIQUI")
+
 
     println("Jefferson Parra")
     println("Escuchar Musica")
