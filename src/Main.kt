@@ -49,6 +49,8 @@ fun main() {
     println("Jorge Esteban Herrera Jimenez")
     println("Jugar videojuegos")
     println("Perro: Rocket")
+    println("19")
+    println("Cajica")
 
 
     println("Jefferson Parra")
