@@ -1,7 +1,8 @@
 fun main() {
 
-    println("Clase Kotlin")
-
+   println("TENGO 20 AÑOS")
+    println("ZIPAQUIRA")
+ 
     
     println("Omar Rodriguez")
     println("Jugar Futbol")
@@ -13,6 +14,8 @@ fun main() {
     println("MiguelJimenez")
     println("Leer Libros")
     println("Mascota : Tomas")
+    println("Edad : 20")
+    println("Tocancipa")
 
     println("Valeria Medina Ocampo")
     println("bailar ")
@@ -31,13 +34,16 @@ fun main() {
 
     println("Cristian Esteban Cano Vega")
     println("Hola")
-    println("Gato: Benito")
+    println("Gato: Willson")
     println("22")
     println("Pacho")
+
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
+    println("21 años")
+    println("Pacho Cundinamarca")
 
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
@@ -49,8 +55,6 @@ fun main() {
     println("19")
     println("Cajica")
 
-
-
     println("Jefferson Parra")
     println("Escuchar Musica")
     println("Perro: Juan")
@@ -60,6 +64,9 @@ fun main() {
     println("Juan Sebastian Dueñas Robayo")
     println("Jugar Xbox")
     println("Perrita Samantha")
+    println("19")
+    println("Zipaquira")
+    
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
