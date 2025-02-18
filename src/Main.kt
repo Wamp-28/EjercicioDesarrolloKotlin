@@ -5,9 +5,18 @@ fun main() {
     println("Jugar Futbol")
     println("Molly, Luka y Zeus")
 
+
+
+    println("Jefferson Parra")
+    println("Escuchar Musica")
+    println("Perro: Juan")
+
+
+
     println("Juan Sebastian Dueñas Robayo")
     println("Jugar Xbox")
     println("Perrita""Samantha")
+
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
@@ -16,5 +25,6 @@ fun main() {
     println("KAREN NATALIA FERNANDEZ CORTES")
     println("MONTAR BICICLETA")
     println("GATOS: LUNA Y SOL")
+
 
 }
