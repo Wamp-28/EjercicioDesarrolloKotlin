@@ -26,5 +26,7 @@ fun main() {
     println("MONTAR BICICLETA")
     println("GATOS: LUNA Y SOL")
 
-
+    println("Wilson Gomez")
+    println("jugar voley")
+    println("ninguno")
 }
