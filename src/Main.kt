@@ -2,7 +2,7 @@ fun main() {
 
     println("Clase Kotlin")
 
-    
+
     println("Omar Rodriguez")
     println("Jugar Futbol")
     println("juancho")
@@ -65,4 +65,8 @@ fun main() {
     println("Wilson Gomez")
     println("jugar voley")
     println("ninguno")
+
+    println("Santiago Noguera")
+    println("Practicar deporte")
+    println("Perrita: Nala")
 }
