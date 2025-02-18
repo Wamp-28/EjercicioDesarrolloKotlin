@@ -25,6 +25,10 @@ fun main() {
     println("Leer")
     println("PERROS:TOBY, KIRA Y CHIQUI")
 
+    println("Jorge Esteban Herrera Jimenez")
+    println("Jugar videojuegos")
+    println("Perro: Rocket")
+
 
     println("Jefferson Parra")
     println("Escuchar Musica")
