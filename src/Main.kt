@@ -1,14 +1,23 @@
 fun main() {
 
     println("Clase Kotlin")
+
     
     println("Omar Rodriguez")
     println("Jugar Futbol")
     println("juancho")
 
   println("Valeria Medina Ocampo")
+
+
+    println("MiguelJimenez")
+    println("Leer Libros")
+    println("Mascota : Tomas")
+
+    println("Valeria Medina Ocampo")
     println("bailar ")
     println("no tengo mascota")
+
 
     println("Juan David Bustos")
     println("Jugar Futbol")
