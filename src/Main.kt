@@ -32,6 +32,8 @@ fun main() {
     println("Cristian Esteban Cano Vega")
     println("Hola")
     println("Gato: Benito")
+    println("22")
+    println("Pacho")
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
