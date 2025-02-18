@@ -65,4 +65,5 @@ fun main() {
     println("Wilson Gomez")
     println("jugar voley")
     println("ninguno")
+    println("20")
 }
