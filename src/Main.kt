@@ -1,7 +1,14 @@
 fun main() {
 
-    println("Clase Kotlin")
+    println("Manuel Santiago Malpica")
+    println("jugar xbox")
+    println("perro Roma ")
+    println("21")
+    println("Zipaquira")
 
+   println("TENGO 20 AÑOS")
+    println("ZIPAQUIRA")
+ 
     
     println("Omar Rodriguez")
     println("Jugar Futbol")
@@ -13,6 +20,8 @@ fun main() {
     println("MiguelJimenez")
     println("Leer Libros")
     println("Mascota : Tomas")
+    println("Edad : 20")
+    println("Tocancipa")
 
     println("Valeria Medina Ocampo")
     println("bailar ")
@@ -31,22 +40,28 @@ fun main() {
 
     println("Cristian Esteban Cano Vega")
     println("Hola")
-    println("Gato: Benito")
+    println("Gato: Willson")
     println("22")
     println("Pacho")
+
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
+    println("21 años")
+    println("Pacho Cundinamarca")
 
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
     println("PERROS:TOBY, KIRA Y CHIQUI")
+    println("20")
+    println("Tocancipa")
 
     println("Jorge Esteban Herrera Jimenez")
     println("Jugar videojuegos")
     println("Perro: Rocket")
-
+    println("19")
+    println("Cajica")
 
     println("Jefferson Parra")
     println("Escuchar Musica")
@@ -57,6 +72,9 @@ fun main() {
     println("Juan Sebastian Dueñas Robayo")
     println("Jugar Xbox")
     println("Perrita Samantha")
+    println("19")
+    println("Zipaquira")
+    
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
     println("LEER")
@@ -71,6 +89,9 @@ fun main() {
     println("ninguno")
 
     println("juan moncada")
-   println("jugar genshin")
-   println("gata: mia")
+    println("jugar genshin")
+    println("gata: mia")
 }
+
+}
+
