@@ -6,10 +6,16 @@ fun main() {
     println("Molly, Luka y Zeus")
 
 
+
     println("Jefferson Parra")
     println("Escuchar Musica")
     println("Perro: Juan")
 
+
+
+    println("Juan Sebastian Dueñas Robayo")
+    println("Jugar Xbox")
+    println("Perrita""Samantha")
 
 
     println("WILLIAM ALEXANDER MATALLANA PORRAS")
