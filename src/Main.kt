@@ -4,7 +4,7 @@ fun main() {
 
     println("Caren Juliana Arevalo Vargas")
     println("Leer")
-    println("Perro: TOBY")
+    println("PERROS:TOBY, KIRA Y CHIQUI")
 
 
 }
