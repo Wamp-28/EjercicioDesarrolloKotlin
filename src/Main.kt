@@ -108,5 +108,6 @@ fun main() {
     println("Santiago Noguera")
     println("Practicar deporte")
     println("Perrita: Nala")
+    println("20")
 }
 
