@@ -23,13 +23,17 @@ fun main() {
     println("Jugar Futbol")
     println("No Tengo")
 
-    println("JUAN ESTEBAN CAPUROR BUITRAGO")
+    println("JUAN ESTEBAN CAPURRO BUITRAGO")
     println("Jugar Futbol")
     println("Molly, Luka y Zeus")
+    println("22 AÑOS")
+    println("Cajicá, Cundinamarca.")
 
     println("Cristian Esteban Cano Vega")
     println("Hola")
     println("Gato: Benito")
+    println("22")
+    println("Pacho")
     
     println("Daniel Moreno")
     println("Tocar Guitarra")
