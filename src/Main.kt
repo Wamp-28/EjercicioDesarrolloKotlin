@@ -1,7 +1,8 @@
 fun main() {
 
-    println("Clase Kotlin")
-
+   println("TENGO 20 AÑOS")
+    println("ZIPAQUIRA")
+ 
     
     println("Omar Rodriguez")
     println("Jugar Futbol")
