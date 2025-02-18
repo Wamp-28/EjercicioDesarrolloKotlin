@@ -50,7 +50,6 @@ fun main() {
     println("22")
     println("Pacho")
 
-    
     println("Daniel Moreno")
     println("Tocar Guitarra")
     println("Gato Mincho")
@@ -68,6 +67,7 @@ fun main() {
     println("Perro: Rocket")
     println("19")
     println("Cajica")
+
 
     println("Jefferson Parra")
     println("Escuchar Musica")
@@ -94,12 +94,15 @@ fun main() {
     println("jugar voley")
     println("ninguno")
 
+    println("20")
+    println("zipaquira")
+
+
+
     println("juan moncada")
     println("jugar genshin")
     println("gata: mia")
-}
 
-}
 
 
     println("Santiago Noguera")
