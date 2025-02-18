@@ -5,6 +5,9 @@ fun main() {
     println("Jugar Futbol")
     println("Molly, Luka y Zeus")
 
+    println("Daniel Moreno")
+    println("Tocar Guitarra")
+    println("Gato Mincho")
 
 
     println("Jefferson Parra")
